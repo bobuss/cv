@@ -3,6 +3,7 @@
 all:
 	Rscript update.R
 	cp -r css _dist/
+	cp -r images _dist/
 
 publish:
 	rsync -dav _dist/ bobuss@tornil.net:~/www/cv/
