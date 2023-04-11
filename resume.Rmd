@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 
 # Aside
 
-![Dr Mustache](/images/mustache.svg){width=80%}
+![Dr Mustache](https://www.tornil.net/cv/images/mustache.svg){width=80%}
 
 ## Contact Info {#contact}
 
