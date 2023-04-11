@@ -34,7 +34,7 @@ knitr::opts_chunk$set(
 ```{r download}
 # if doctype is html add link to download a pdf version
 if(params$doctype == "HTML"){
-  cat("[<i class='fas fa-download'></i> Download as a PDF](https://www.tornil.net/cv/cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download as a PDF](https://www.tornil.net/cv/Bertrand_Tornil_Resume.pdf)")
 }
 ```
 
