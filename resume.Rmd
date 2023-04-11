@@ -1,0 +1,277 @@
+---
+title: "Bertrand Tornil's Resume"
+author: Bertrand Tornil
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css: ['css/custom_resume.css', 'css/styles_html.css', 'resume']
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+params:
+  doctype: "HTML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis',
+  echo = FALSE
+)
+```
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [bertrand.tornil\@gmail.com](mailto:bertrand.tornil@gmail.com){.email}
+-   <i class="fa fa-globe-americas"></i> [www.tornil.net](https://www.tornil.net/)
+-   <i class="fa fa-linkedin"></i> [bertrandtornil](https://www.linkedin.com/in/bertrandtornil/)
+-   <i class="fa fa-twitter"></i> [twitter.com/bobuss](https://twitter.com/bobuss)
+-   <i class="fa fa-github"></i> [github.com/bobuss](https://github.com/bobuss)
+-   For more information, please contact me via email.
+
+```{r download}
+# if doctype is html add link to download a pdf version
+if(params$doctype == "HTML"){
+  cat("[<i class='fas fa-download'></i> Download as a PDF](https://www.tornil.net/cv/cv.pdf)")
+}
+```
+
+## Skills {#skills}
+
+-   WebService Architectures
+-   DevOps
+-   Open Source
+
+## Disclaimer {#disclaimer}
+
+- Made w/ [**pagedown**](https://github.com/rstudio/pagedown).
+- Source code: [**github repo**](https://github.com/bobuss/cv).
+
+Last updated on `r Sys.Date()`.
+<br>
+<br>
+
+
+# Main
+
+## Bertrand Tornil {#title}
+
+### Software Engineer, PhD
+
+I deliver available, scalable and observable web services.
+
+My days are full of Ansible, MariaDB, Redis, Python, Orchestrator, Kafka, Azure, Prometheus, grafana,
+OpenTelemtry, Solr, JVM, shell, RedHat.
+I also use Terraform, Kubernetes, docker, Clickhouse, Consul, and many other cool tools...
+Sometimes, I am a frontend hobbyist, currently playing with vue.js and Audioworklet API
+I used to be on-call, and I liked it!
+
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Université Paul Sabatier
+
+PhD in Information Systems (Doctorat d'informatique)
+
+Toulouse, France
+
+2006
+
+Thesis (french): [Interaction gestuelle et haptique, pour plus d'utilisabilité et d'accessibilité](https://www.tornil.net/these)
+
+### Université Paul Sabatier
+
+MA in Computer Information (Master Image & Language)
+
+Toulouse, France
+
+2001
+
+### Université de Limoges (Licence et Maitrise d'informatique)
+
+BA in Computer Science
+
+Limoges, France
+
+1999
+
+## Professional Experience {data-icon="suitcase"}
+
+### Principal Software Engineer
+
+[Itron](https://www.itron.com/)
+
+Remote, USA
+
+Present - 2016
+
+-   Technical swiss knife : SmartCities solution architecture
+-   [StreetLight.Vision](https://www.itron.com/na/solutions/what-we-enable/smart-cities/central-management-software)
+-   Duties and achievements:
+    -   Architecture to allow Highly Availability on Premise and Cloud environments
+    -   Choice of new tools and open source software: git, Prometheus, Grafana, Kafka, Redis, orchestrator
+    -   MariaDB High-Availability (10sec failover) based on Orchestrator, HAProxy, Consul
+    -   Ansible automation
+    -   Transition to Azure DevOps Services: IAAS and Pipelines for builds and deployements
+    -   Kubernetes, Terraform
+    -   Design and deploy the Monitoring and Alerting stack
+    -   DevOps evangelism: Continuous Integration, Continuous Deployment
+    -   Technological watch, everyday
+
+### Data Scientist, Web architect, Lead Dev, Release Manager
+
+[IsCool Entertainment - Paris](https://www.iscoolentertainment.com)
+
+Paris, France
+
+2016 - 2009
+
+-   2015 - 2016 : Data Scientist
+    -   Postgresql, w/ PipelineDB, CitusDB
+    -   InfluxDB
+    -   Google BigQuery
+    -   Kubernetes
+-   2013 - 2015 : Lead Dev on [Lord of the Dumbs](https://www.lordofthedumbs.com/fr/)
+    -   Python (Pyramid, SQLAlchemy, uWSGI, supervisord, Fabric)
+    -   postgresql, redis
+    -   RabbitMQ
+    -   RESTful webservices
+    -   AngularJS
+-   2012 : R&D Transversal Projects:
+    -   RealTime dashboards (node.js / mongodb / html5)
+    -   QA and Continuous Delivery Processes and Tools (Jenkins, Tests, Capistrano, Monitoring)
+-   2011 : Lead Dev & Release Manager on ColorParty: (up to 150,000 Monthly Active Users)
+    -   Shoots engine: 3Mshoots / day
+    -   Players Logbook Consolidation in best-effort
+    -   Business metrics, Users profiles, Messaging on Redis
+-   2009 - 2010 : Lead Dev & Release Manager on IsCool: 1,500,000 Monthly Active Users, 80M Pages / day
+    -   Tokens sharing engine: still in production, 2G daily shared points
+    -   Redis deployment
+    -   Symfony2 Transition (see [Iscool Story. Symfony Live 2011 - Paris](https://fr.slideshare.net/bertrandtornil/symfony-live-2011))
+    -   Release process
+    -   SVN to GIT Transition
+    -   Makefiles (assets compilation, i18n)
+    -   Capistrano, EC2, S3
+-   Development architecture on EC2
+-   Agile: scrum (certified), kanban and XP notions
+-   DevOps: 1 release per day, Monitoring via Pinba and Zabbix
+-   Management: 10-20 persons team, hiring, trainees
+
+### Core Developper
+
+[Dailymotion - Paris](https://www.dailymotion.com)
+
+Paris, France
+
+2009 - 2008
+
+-   PHP / Mysql / memcache / git
+-   Localization
+-   Revenue sharing (ads servers)
+-   audio & video fingerprinting and videos publication process
+
+### Web consultant
+
+[ALTEN - Boulogne Billancourt](https://www.alten.fr)
+
+Paris, France
+
+2008 - 2007
+
+-   PHP, Mysql, Javascript
+-   Web Developpment: [Virgin Mobile](https://www.virginmobile.fr)
+-   R&D: [Cellfish media](https://www.cellfishmedia.fr) (Lagardère Active)
+-   Web Developpment: [caradisiac.com](https://www.caradisiac.com)
+
+### R&D engineer
+
+UIXPERTS - Paris
+
+Remote, France
+
+2006
+
+-   PHP, Mysql, Javascript
+
+### Web Developper
+
+[WS Interactive - Toulouse](https://www.ws-interactive.fr)
+
+Toulouse France
+
+2006
+
+-   PHP, Mysql, Javascript
+
+
+## Research Experience {data-icon="laptop"}
+
+### Graduate Research Assistant
+
+[IRIT & Université Paul Sabatier - Toulouse](https://www.irit.fr)
+
+Toulouse, France
+
+2009 - 2000
+
+-   Search domains: HCI, Tactile and force feedback Interfaces, AI
+-   Teaching: CAML, C, Pascal, Delphi, Algorithms
+-   [Publications](https://tornil.net/bibliography)
+
+## Teaching Experience {data-icon="chalkboard-teacher"}
+
+### AWS, scalability and DevOps (french)
+
+[INSSET, Master Cloud Computing](http://apache.insset.u-picardie.fr/formations/master-informatique/master-ccm)
+
+Saint-Quentin, France
+
+2016-2013
+
+-   [AWS, scalability and DevOps (french)](https://www.tornil.net/INSSET_AWS/index.html)
+
+### Cloud et architectures scalables (french)
+
+[EPITA](https://www.epita.fr)
+
+Paris, France
+
+2011
+
+-   [Cloud et architectures scalables (french)](https://www.tornil.net/cours/epita2011.html)
+
+## Selected Publications {data-icon="file"}
+
+### Iscool Story
+
+Symfony Live
+
+Paris, France
+
+2011
+
+Alexandre Rodière, **Bertrand Tornil**
+
+<i class="fa fa-slideshare"></i> [slideshare.net/bertrandtornil/symfony-live-2011](https://fr.slideshare.net/bertrandtornil/symfony-live-2011).
+
+### Music haptic: Musical harmony notions for all with a force feedback mouse and a spatial representation
+
+International Computer Music Conference
+
+Barcelona, Spain
+
+2005
+
+**Bertrand Tornil**, Nadine Baptiste-Jessel
+
+### Use of force feedback pointing devices for blind users
+
+8th ERCIM Workshop User Interfaces For All
+
+Vienna, Austria
+
+2004
+
+**Bertrand Tornil**, Nadine Baptiste-Jessel
