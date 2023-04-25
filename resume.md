@@ -15,7 +15,7 @@ I deliver available, scalable and observable web services.
 My days are full of Ansible, MariaDB, Redis, Python, Orchestrator, Kafka, Azure, Prometheus, grafana,
 OpenTelemtry, Solr, JVM, shell, RedHat.<br>
 I also use Terraform, Kubernetes, docker, Clickhouse, Consul, and many other cool tools...<br>
-Sometimes, I am a frontend hobbyist, currently playing with vue.js and Audioworklet API.<br>
+I am a frontend hobbyist, currently playing with vue.js and Audioworklet API.<br>
 I used to be on-call, and I liked it!
 
 
