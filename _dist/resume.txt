@@ -216,7 +216,7 @@ Paris, France
 
 Alexandre Rodière, Bertrand Tornil
 
-slideshare.net/bertrandtornil/symfony-live-2011.
+-   slideshare.net/bertrandtornil/symfony-live-2011
 
 Music haptic: Musical harmony notions for all with a force feedback mouse and a spatial representation
 
@@ -228,6 +228,9 @@ Barcelona, Spain
 
 Bertrand Tornil, Nadine Baptiste-Jessel
 
+-   Music haptic: Musical harmony notions for all with a force feedback
+    mouse and a spatial representation
+
 Use of force feedback pointing devices for blind users
 
 2004
@@ -237,3 +240,5 @@ Use of force feedback pointing devices for blind users
 Vienna, Austria
 
 Bertrand Tornil, Nadine Baptiste-Jessel
+
+-   Use of force feedback pointing devices for blind users

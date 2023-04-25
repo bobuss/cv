@@ -21,9 +21,9 @@ I used to be on-call, and I liked it!
 
 ### Skills
 
--   WebService Architectures
--   DevOps
--   Open Source
+- WebService Architectures
+- DevOps
+- Open Source
 
 
 
@@ -37,18 +37,18 @@ I used to be on-call, and I liked it!
 
 Remote, USA
 
--   Technical swiss knife : SmartCities solution architecture
--   [StreetLight.Vision](https://www.itron.com/na/solutions/what-we-enable/smart-cities/central-management-software)
--   Duties and achievements:
-    -   Architecture to allow Highly Availability on Premise and Cloud environments
-    -   Choice of new tools and open source software: git, Prometheus, Grafana, Kafka, Redis, orchestrator
-    -   MariaDB High-Availability (10sec failover) based on Orchestrator, HAProxy, Consul
-    -   Ansible automation
-    -   Transition to Azure DevOps Services: IAAS and Pipelines for builds and deployements
-    -   Kubernetes, Terraform
-    -   Design and deploy the Monitoring and Alerting stack
-    -   DevOps evangelism: Continuous Integration, Continuous Deployment
-    -   Technological watch, everyday
+- Technical swiss knife : SmartCities solution architecture
+- [StreetLight.Vision](https://www.itron.com/na/solutions/what-we-enable/smart-cities/central-management-software)
+- Duties and achievements:
+    - Architecture to allow Highly Availability on Premise and Cloud environments
+    - Choice of new tools and open source software: git, Prometheus, Grafana, Kafka, Redis, orchestrator
+    - MariaDB High-Availability (10sec failover) based on Orchestrator, HAProxy, Consul
+    - Ansible automation
+    - Transition to Azure DevOps Services: IAAS and Pipelines for builds and deployements
+    - Kubernetes, Terraform
+    - Design and deploy the Monitoring and Alerting stack
+    - DevOps evangelism: Continuous Integration, Continuous Deployment
+    - Technological watch, everyday
 
 ### Data Scientist, Web architect, Lead Dev, Release Manager
 
@@ -58,36 +58,36 @@ Remote, USA
 
 Paris, France
 
--   2015 - 2016 : Data Scientist
-    -   Postgresql, w/ PipelineDB, CitusDB
-    -   InfluxDB
-    -   Google BigQuery
-    -   Kubernetes
--   2013 - 2015 : Lead Dev on [Lord of the Dumbs](https://www.lordofthedumbs.com/fr/)
-    -   Python (Pyramid, SQLAlchemy, uWSGI, supervisord, Fabric)
-    -   postgresql, redis
-    -   RabbitMQ
-    -   RESTful webservices
-    -   AngularJS
--   2012 : R&D Transversal Projects:
-    -   RealTime dashboards (node.js / mongodb / html5)
-    -   QA and Continuous Delivery Processes and Tools (Jenkins, Tests, Capistrano, Monitoring)
--   2011 : Lead Dev & Release Manager on ColorParty: (up to 150,000 Monthly Active Users)
-    -   Shoots engine: 3Mshoots / day
-    -   Players Logbook Consolidation in best-effort
-    -   Business metrics, Users profiles, Messaging on Redis
--   2009 - 2010 : Lead Dev & Release Manager on IsCool: 1,500,000 Monthly Active Users, 80M Pages / day
-    -   Tokens sharing engine: still in production, 2G daily shared points
-    -   Redis deployment
-    -   Symfony2 Transition (see [Iscool Story. Symfony Live 2011 - Paris](https://fr.slideshare.net/bertrandtornil/symfony-live-2011))
-    -   Release process
-    -   SVN to GIT Transition
-    -   Makefiles (assets compilation, i18n)
-    -   Capistrano, EC2, S3
--   Development architecture on EC2
--   Agile: scrum (certified), kanban and XP notions
--   DevOps: 1 release per day, Monitoring via Pinba and Zabbix
--   Management: 10-20 persons team, hiring, trainees
+- 2015 - 2016 : Data Scientist
+    - Postgresql, w/ PipelineDB, CitusDB
+    - InfluxDB
+    - Google BigQuery
+    - Kubernetes
+- 2013 - 2015 : Lead Dev on [Lord of the Dumbs](https://www.lordofthedumbs.com/fr/)
+    - Python (Pyramid, SQLAlchemy, uWSGI, supervisord, Fabric)
+    - postgresql, redis
+    - RabbitMQ
+    - RESTful webservices
+    - AngularJS
+- 2012 : R&D Transversal Projects:
+    - RealTime dashboards (node.js / mongodb / html5)
+    - QA and Continuous Delivery Processes and Tools (Jenkins, Tests, Capistrano, Monitoring)
+- 2011 : Lead Dev & Release Manager on ColorParty: (up to 150,000 Monthly Active Users)
+    - Shoots engine: 3Mshoots / day
+    - Players Logbook Consolidation in best-effort
+    - Business metrics, Users profiles, Messaging on Redis
+- 2009 - 2010 : Lead Dev & Release Manager on IsCool: 1,500,000 Monthly Active Users, 80M Pages / day
+    - Tokens sharing engine: still in production, 2G daily shared points
+    - Redis deployment
+    - Symfony2 Transition (see [Iscool Story. Symfony Live 2011 - Paris](https://fr.slideshare.net/bertrandtornil/symfony-live-2011))
+    - Release process
+    - SVN to GIT Transition
+    - Makefiles (assets compilation, i18n)
+    - Capistrano, EC2, S3
+- Development architecture on EC2
+- Agile: scrum (certified), kanban and XP notions
+- DevOps: 1 release per day, Monitoring via Pinba and Zabbix
+- Management: 10-20 persons team, hiring, trainees
 
 ### Core Developper
 
@@ -97,10 +97,10 @@ Paris, France
 
 Paris, France
 
--   PHP / Mysql / memcache / git
--   Localization
--   Revenue sharing (ads servers)
--   audio & video fingerprinting and videos publication process
+- PHP / Mysql / memcache / git
+- Localization
+- Revenue sharing (ads servers)
+- audio & video fingerprinting and videos publication process
 
 ### Web consultant
 
@@ -110,10 +110,10 @@ Paris, France
 
 Paris, France
 
--   PHP, Mysql, Javascript
--   Web Developpment: [Virgin Mobile](https://www.virginmobile.fr)
--   R&D: [Cellfish media](https://www.cellfishmedia.fr) (Lagardère Active)
--   Web Developpment: [caradisiac.com](https://www.caradisiac.com)
+- PHP, Mysql, Javascript
+- Web Developpment: [Virgin Mobile](https://www.virginmobile.fr)
+- R&D: [Cellfish media](https://www.cellfishmedia.fr) (Lagardère Active)
+- Web Developpment: [caradisiac.com](https://www.caradisiac.com)
 
 ### R&D engineer
 
@@ -123,7 +123,7 @@ UIXPERTS - Paris
 
 Remote, France
 
--   PHP, Mysql, Javascript
+- PHP, Mysql, Javascript
 
 ### Web Developper
 
@@ -133,7 +133,7 @@ Remote, France
 
 Toulouse France
 
--   PHP, Mysql, Javascript
+- PHP, Mysql, Javascript
 
 
 ## Education
@@ -176,9 +176,9 @@ Limoges, France
 
 Toulouse, France
 
--   Search domains: HCI, Tactile and force feedback Interfaces, AI
--   Teaching: CAML, C, Pascal, Delphi, Algorithms
--   [Publications](https://tornil.net/bibliography)
+- Search domains: HCI, Tactile and force feedback Interfaces, AI
+- Teaching: CAML, C, Pascal, Delphi, Algorithms
+- [Publications](https://tornil.net/bibliography)
 
 ## Teaching Experience
 
@@ -190,7 +190,7 @@ Toulouse, France
 
 Saint-Quentin, France
 
--   [AWS, scalability and DevOps (french)](https://www.tornil.net/INSSET_AWS/index.html)
+- [AWS, scalability and DevOps (french)](https://www.tornil.net/INSSET_AWS/index.html)
 
 ### Cloud et architectures scalables (french)
 
@@ -200,7 +200,7 @@ Saint-Quentin, France
 
 Paris, France
 
--   [Cloud et architectures scalables (french)](https://www.tornil.net/cours/epita2011.html)
+- [Cloud et architectures scalables (french)](https://www.tornil.net/cours/epita2011.html)
 
 ## Selected Publications
 
@@ -214,7 +214,7 @@ Paris, France
 
 Alexandre Rodière, **Bertrand Tornil**
 
-<i class="fa fa-slideshare"></i> [slideshare.net/bertrandtornil/symfony-live-2011](https://fr.slideshare.net/bertrandtornil/symfony-live-2011).
+- [slideshare.net/bertrandtornil/symfony-live-2011](https://fr.slideshare.net/bertrandtornil/symfony-live-2011)
 
 ### Music haptic: Musical harmony notions for all with a force feedback mouse and a spatial representation
 
@@ -226,6 +226,8 @@ Barcelona, Spain
 
 **Bertrand Tornil**, Nadine Baptiste-Jessel
 
+- [Music haptic: Musical harmony notions for all with a force feedback mouse and a spatial representation](https://www.tornil.net/bibliography/icmc2005/index.html)
+
 ### Use of force feedback pointing devices for blind users
 
 `2004`
@@ -235,3 +237,5 @@ Barcelona, Spain
 Vienna, Austria
 
 **Bertrand Tornil**, Nadine Baptiste-Jessel
+
+- [Use of force feedback pointing devices for blind users](https://www.tornil.net/bibliography/ui4all2004/index.html)
