@@ -1,8 +1,13 @@
 # Source code for my resume
 
-Rendered in R with [pagedown package](https://pagedown.rbind.io).
+
+### Requirements
+
+    Pandoc
 
 
 ### Inspiration
 
+- `md2tex.py` from https://github.com/lucafrance/luca-cv
 - https://github.com/mleary/resume
+- https://lucaf.eu/2022/08/18/cv-markdown-pandoc-python-latex.html
