@@ -7,10 +7,10 @@ PANDOC_OPTIONS=--standalone
 all: index.html resume.docx resume.txt resume.rtf resume.odt resume.epub
 
 clean:
-	rm -fr *
+	rm index.html resume.docx resume.txt resume.rtf resume.odt resume.epub
 
 publish:
-	rsync --delete -dav --exclude ".gitignore" --exclude "LICENSE.txt" --exclude "README.txt". bobuss@tornil.net:~/www/cv/
+	rsync --delete -dav --exclude ".git" --exclude ".gitignore" --exclude "LICENSE.txt" --exclude "README.md" . bobuss@tornil.net:~/www/cv/
 
 # Files generation
 
