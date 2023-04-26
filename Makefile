@@ -15,7 +15,7 @@ publish:
 # Files generation
 
 index.html: resume.md
-	$(PANDOC) $(PANDOC_OPTIONS) -c css/github.css -M pagetitle:"Bertrand Tornil's Resume" -H ga.txt -f markdown -t html5 -o $@ $<
+	$(PANDOC) $(PANDOC_OPTIONS) -c css/github.css -H ga.txt -f markdown -t html5 -o $@ $<
 
 resume.docx: resume.md
 	$(PANDOC) $(PANDOC_OPTIONS) -f markdown -t docx -o $@ $<

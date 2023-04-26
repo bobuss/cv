@@ -1,3 +1,8 @@
+---
+lang: en
+pagetitle: Bertrand Tornil's Resume
+---
+
 # Bertrand Tornil
 
 
