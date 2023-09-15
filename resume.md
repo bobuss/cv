@@ -18,7 +18,7 @@ _Wake Forest, NC 27587, USA_
 I deliver available, scalable and observable web services.
 
 My days are full of Ansible, MariaDB, Redis, Python, Orchestrator, Kafka, Azure, Prometheus, grafana,
-OpenTelemtry, Solr, JVM, shell, RedHat.<br>
+OpenTelemetry, Solr, JVM, shell, RedHat.<br>
 I also use Terraform, Kubernetes, docker, Clickhouse, Consul, and many other cool tools...<br>
 I am a frontend hobbyist, currently playing with vue.js and Audioworklet API.<br>
 I used to be on-call, and I liked it!
@@ -143,39 +143,32 @@ Toulouse France
 
 ## Education
 
-### Université Paul Sabatier
+### PhD in Information Systems (Doctorat d'informatique)
 
 `2006`
 
-PhD in Information Systems (Doctorat d'informatique)
-
-Toulouse, France
+Université Toulouse III – Paul Sabatier - France
 
 Thesis (french): [Interaction gestuelle et haptique, pour plus d'utilisabilité et d'accessibilité](https://www.tornil.net/these)
 
-### Université Paul Sabatier
+### Master of Science in Computer Information Systems (Master Image & Language)
 
 `2001`
 
-MA in Computer Information (Master Image & Language)
+Université Toulouse III – Paul Sabatier - France
 
-Toulouse, France
-
-### Université de Limoges (Licence et Maitrise d'informatique)
+### Bachelor of Science in Computer Science (Licence et Maitrise d'informatique)
 
 `1999`
 
-BA in Computer Science
-
-Limoges, France
-
+Université de Limoges - France
 
 
 ## Research Experience
 
 ### Graduate Research Assistant
 
-`2000 - 2009`
+`2000 - 2006`
 
 [IRIT & Université Paul Sabatier - Toulouse](https://www.irit.fr)
 
@@ -205,7 +198,7 @@ Saint-Quentin, France
 
 Paris, France
 
-- [Cloud et architectures scalables (french)](https://www.tornil.net/cours/epita2011.html)
+- [Cloud et architectures scalables (french)](https://www.tornil.net/epita/epita2011.html)
 
 ## Selected Publications
 
