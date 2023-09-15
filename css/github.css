@@ -40,7 +40,10 @@ h1 {
 }
 
 h2 {
-    color: #393939
+    color: #393939;
+    border-top: solid 1px #393939;
+    padding-top: 1em;
+    text-decoration: underline;
 }
 
 h3,
