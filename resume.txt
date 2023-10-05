@@ -36,20 +36,25 @@ Remote, USA
 
 -   Technical swiss knife : SmartCities solution architecture
 -   StreetLight.Vision
--   Duties and achievements:
-    -   Architecture to allow Highly Availability on Premise and Cloud
-        environments
-    -   Choice of new tools and open source software: git, Prometheus,
-        Grafana, Kafka, Redis, orchestrator
-    -   MariaDB High-Availability (10sec failover) based on
-        Orchestrator, HAProxy, Consul
-    -   Ansible automation
-    -   Transition to Azure DevOps Services: IAAS and Pipelines for
-        builds and deployements
-    -   Kubernetes, Terraform
-    -   Design and deploy the Monitoring and Alerting stack
-    -   DevOps evangelism: Continuous Integration, Continuous Deployment
-    -   Technological watch, everyday
+-   Duties and Accomplishments:
+    -   Implemented architecture for High Availability in both
+        On-Premise and Cloud environments.
+    -   Selected and integrated new tools and open-source software,
+        including Git, Prometheus, Grafana, Kafka, Redis, and
+        orchestrator.
+    -   Established MariaDB High Availability with a 10-second failover
+        using Orchestrator, HAProxy, and Consul.
+    -   Automated tasks using Ansible.
+    -   Led the transition to Azure DevOps Services, configuring
+        Infrastructure as a Service (IAAS) and setting up pipelines for
+        builds and deployments.
+    -   Utilized Kubernetes and Terraform for deployment and management.
+    -   Designed and implemented a comprehensive Monitoring and Alerting
+        stack.
+    -   Advocated for DevOps principles, promoting Continuous
+        Integration and Continuous Deployment.
+    -   Stayed up-to-date with the latest technological advancements
+        through regular technological watch and research.
 
 Data Scientist, Web architect, Lead Dev, Release Manager
 
